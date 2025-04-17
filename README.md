@@ -1,2 +1,5 @@
 # repositorio-DIO
-Repositorio do primeiro Desafio de Projeto Bootcamp DIO
+
+### Neste repositório ficarão os desafios de código do Bootcamp Inter
+
+
